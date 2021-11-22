@@ -1,0 +1,17 @@
+@import "~bootstrap/dist/css/bootstrap";
+@import "style";
+@import "michele";
+@import "vito";
+@import "anto";
+@import "simone";
+@import "~@glidejs/glide/dist/css/glide.core.css";
+
+/* import stile dropzone min 17 */
+
+@import "~dropzone/dist/basic";
+@import "~dropzone/dist/dropzone";
+
+/* Import Bandiere */
+
+@import "~flag-icon-css/css/flag-icons.css";
+@import "~flag-icon-css/css/flag-icons.min.css";

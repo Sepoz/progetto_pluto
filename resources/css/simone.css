@@ -1,0 +1,36 @@
+.homepage-main-img {
+    background: linear-gradient(
+            90deg,
+            rgba(0, 0, 0, 0.3) 17%,
+            rgba(0, 0, 0, 0.3) 51%
+        ),
+        url("../../public/img/clothesHP.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.homepage-main-title {
+    color: white;
+    font-size: 100px;
+    font-weight: 800;
+    position: absolute;
+    left: 150px;
+    top: 35%;
+}
+
+.homepage-main-subtitle {
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+    position: absolute;
+    left: 150px;
+    top: 55%;
+}
+
+.homepage-main-button {
+    width: 300px;
+    position: absolute;
+    top: 80%;
+    right: calc(50% - 150px);
+}

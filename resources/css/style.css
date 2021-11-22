@@ -1,0 +1,66 @@
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+.font-personal {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/*Classi di modifica del form di registrazione*/
+
+.font-sz {
+    font-size: small;
+}
+
+.register-container-size {
+    width: 500px;
+    height: 400px;
+}
+
+.register-border-box {
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}
+
+.btn-color {
+    background-color: #40916C;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #40916C;
+    border-color: #40916C;
+}
+
+.form-check-input:checked {
+    background-color: #40916C;
+    border-color: #40916C;
+}
+
+.register-hover:focus {
+    border-color: #40916C;
+    box-shadow: 0 0 3px 2px rgb(64 145 108/ 50%);
+}
+
+
+/*Classi di modifica del form di login*/
+
+
+/* navbar */
+
+.btn-hover:hover {
+    color: #40916C;
+}
+
+.pluto-navbar .nav.link {
+    color: black
+}
+
+
+.antoc {
+    color: rgba(88, 45, 90, 0.289)
+
+}
+
+
+
